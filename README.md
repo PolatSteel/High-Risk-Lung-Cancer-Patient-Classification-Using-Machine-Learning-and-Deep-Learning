@@ -164,32 +164,55 @@ High-Risk-Lung-Cancer-Patient-Classification/
 
 ### Correlation Matrix
 
-![Correlation Matrix](04_Output_Figures/Correlation%20Matrix.png)
+![Correlation Matrix](04_Output_Figures/Correlation_Matrix.png)
 
 ### Feature Distribution
 
-![Feature Distribution](04_Output_Figures/Feature%20Distribution.png)
+![Feature Distribution](04_Output_Figures/Feature_Distribution.png)
 
 ### Feature Importance
 
-![Feature Importance](04_Output_Figures/Feature%20Importance.png)
+![Feature Importance](04_Output_Figures/Feature_Importance.png)
+
+### Feature Selection Comparison
+
+![Feature Selection Comparison](04_Output_Figures/Feature_Selection_Comparison.png)
+
+### Target Distribution
+
+![Target Distribution](04_Output_Figures/Target_Distribution.png)
 
 ### ROC Curve
 
-![ROC Curve](04_Output_Figures/Roc%20Curve%20Graphics.png)
+![ROC Curve](04_Output_Figures/ROC_Curve.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](04_Output_Figures/Confision%20Matrix.png)
+![Confusion Matrix](04_Output_Figures/Confusion_Matrix.png)
+
+### Confusion Matrix Before SMOTE
+
+![Confusion Matrix Before SMOTE](04_Output_Figures/Confusion_Matrix_Before_SMOTE.png)
+
+### Confusion Matrix After SMOTE
+
+![Confusion Matrix After SMOTE](04_Output_Figures/Confusion_Matrix_After_SMOTE.png)
 
 ### Model Accuracy Comparison
 
-![Model Accuracy Comparison](04_Output_Figures/Model%20Accuracy%20Comparison.png)
+![Model Accuracy Comparison](04_Output_Figures/Model_Accuracy_Comparison.png)
+
+### Training Time Comparison
+
+![Training Time Comparison](04_Output_Figures/Training_Time_Comparison.png)
+
+### Tumor Size Boxplot
+
+![Tumor Size Boxplot](04_Output_Figures/Tumor_Size_Boxplot.png)
 
 ### GUI Interface
 
-![GUI](04_Output_Figures/GUI.png)
-
+![GUI Interface](04_Output_Figures/GUI.png)
 ---
 
 ## 🚀 Future Improvements
