@@ -159,60 +159,36 @@ High-Risk-Lung-Cancer-Patient-Classification/
 ```
 
 ---
-
 ## 📸 Project Screenshots
 
 ### Correlation Matrix
 
-![Correlation Matrix](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Correlation_Matrix.png)
+![Correlation Matrix](High-Risk%20Lung%20Cancer%20Patient%20Classification%20Using%20Machine%20Learning%20and%20Deep%20Learning/04_Output_Figures/Correlation_Matrix.png)
 
 ### Feature Distribution
 
-![Feature Distribution](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Feature_Distribution.png)
+![Feature Distribution](High-Risk%20Lung%20Cancer%20Patient%20Classification%20Using%20Machine%20Learning%20and%20Deep%20Learning/04_Output_Figures/Feature_Distribution.png)
 
 ### Feature Importance
 
-![Feature Importance](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Feature_Importance.png)
-
-### Feature Selection Comparison
-
-![Feature Selection Comparison](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Feature_Selection_Comparison.png)
-
-### Target Distribution
-
-![Target Distribution](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Target_Distribution.png)
+![Feature Importance](High-Risk%20Lung%20Cancer%20Patient%20Classification%20Using%20Machine%20Learning%20and%20Deep%20Learning/04_Output_Figures/Feature_Importance.png)
 
 ### ROC Curve
 
-![ROC Curve](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/ROC_Curve.png)
+![ROC Curve](High-Risk%20Lung%20Cancer%20Patient%20Classification%20Using%20Machine%20Learning%20and%20Deep%20Learning/04_Output_Figures/ROC_Curve.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Confusion_Matrix.png)
-
-### Confusion Matrix Before SMOTE
-
-![Confusion Matrix Before SMOTE](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Confusion_Matrix_Before_SMOTE.png)
-
-### Confusion Matrix After SMOTE
-
-![Confusion Matrix After SMOTE](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Confusion_Matrix_After_SMOTE.png)
+![Confusion Matrix](High-Risk%20Lung%20Cancer%20Patient%20Classification%20Using%20Machine%20Learning%20and%20Deep%20Learning/04_Output_Figures/Confusion_Matrix.png)
 
 ### Model Accuracy Comparison
 
-![Model Accuracy Comparison](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Model_Accuracy_Comparison.png)
-
-### Training Time Comparison
-
-![Training Time Comparison](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Training_Time_Comparison.png)
-
-### Tumor Size Boxplot
-
-![Tumor Size Boxplot](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/Tumor_Size_Boxplot.png)
+![Model Accuracy Comparison](High-Risk%20Lung%20Cancer%20Patient%20Classification%20Using%20Machine%20Learning%20and%20Deep%20Learning/04_Output_Figures/Model_Accuracy_Comparison.png)
 
 ### GUI Interface
 
-![GUI Interface](High-Risk-Lung-Cancer-Patient-Classification-Using-Machine-Learning-and-Deep-Learning/04_Output_Figures/GUI.png)
+![GUI Interface](High-Risk%20Lung%20Cancer%20Patient%20Classification%20Using%20Machine%20Learning%20and%20Deep%20Learning/04_Output_Figures/GUI.png)
+
 ---
 
 ## 🚀 Future Improvements
