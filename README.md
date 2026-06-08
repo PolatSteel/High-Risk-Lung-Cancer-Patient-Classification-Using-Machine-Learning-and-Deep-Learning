@@ -20,15 +20,21 @@ This project focuses on developing and comparing Machine Learning and Deep Learn
 
 ## 📊 Dataset
 
-The dataset contains patient-related medical and lifestyle information associated with lung cancer risk prediction.
+The dataset used in this project was obtained from Kaggle and contains clinical, demographic, and health-related information associated with lung cancer patients.
 
+The objective of the dataset is to support the classification of diagnosed lung cancer patients into Low-Risk and High-Risk categories.
+
+### Dataset Source
+
+Kaggle Dataset:
+[(https://www.kaggle.com/datasets/rashadrmammadov/lung-cancer-prediction)]
 ### Features Included
 
-- Demographic information
-- Medical history
-- Risk factors
-- Clinical indicators
-
+- Demographic Information
+- Medical History
+- Clinical Indicators
+- Lifestyle Factors
+- Risk Assessment Variables
 ---
 
 ## ⚙️ Data Preprocessing
