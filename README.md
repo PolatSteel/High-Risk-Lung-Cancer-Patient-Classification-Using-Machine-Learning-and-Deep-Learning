@@ -162,17 +162,33 @@ High-Risk-Lung-Cancer-Patient-Classification/
 
 ## 📸 Project Screenshots
 
-### Data Analysis
-(Add your visualization screenshots here)
+### Correlation Matrix
+
+![Correlation Matrix](04_Output_Figures/Correlation%20Matrix.png)
+
+### Feature Distribution
+
+![Feature Distribution](04_Output_Figures/Feature%20Distribution.png)
+
+### Feature Importance
+
+![Feature Importance](04_Output_Figures/Feature%20Importance.png)
 
 ### ROC Curve
-(Add ROC Curve image here)
+
+![ROC Curve](04_Output_Figures/Roc%20Curve%20Graphics.png)
 
 ### Confusion Matrix
-(Add Confusion Matrix image here)
+
+![Confusion Matrix](04_Output_Figures/Confision%20Matrix.png)
+
+### Model Accuracy Comparison
+
+![Model Accuracy Comparison](04_Output_Figures/Model%20Accuracy%20Comparison.png)
 
 ### GUI Interface
-(Add GUI screenshot here)
+
+![GUI](04_Output_Figures/GUI.png)
 
 ---
 
